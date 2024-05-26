@@ -25,6 +25,10 @@ This project is built using the [**NestJS framework**](https://www.bing.com/sear
 
 •  [**Test**](https://www.bing.com/search?form=SKPBOT&q=Test): Testing frameworks and libraries to ensure code quality and correctness.
 
+•  [**Docker**](https://www.bing.com/search?form=SKPBOT&q=Docker): Docker for running locally
+
+•  [**CICD**](https://www.bing.com/search?form=SKPBOT&q=CICD): CICD with Github
+
 ## Installation
 ```Setup postgres database: postgres
 Ensure you have Docker installed on your system. Then, run the following command to set up a PostgreSQL container:
@@ -53,12 +57,6 @@ $ npm run start:prod
 # unit tests
 $ npm run test
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
 
 ## Support
 
@@ -73,7 +71,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 [**s3Innovate**](https://www.bing.com/search?form=SKPBOT&q=s3Innovate)
 •  Website: s3Innovate.com [^1^]
 
-•  About: S3 Innovate offers innovative and secure technology solutions to unlock your success in digital transformations. Collaborating with leading technology companies and industry leaders, S3 Innovate is your one-stop solution partner that offers an integrated consultancy and products to reshape your sustainability goals. Headquartered in Singapore, with a regional footprint in Manila, Dhaka, Jakarta, Yangon, and Ho Chi Minh, S3 Innovate is committed to creating a Smart, Secure, and Sustainable world.
+S3 Innovate offers innovative and secure technology solutions to unlock your success in digital transformations. Collaborating with leading technology companies and industry leaders, S3 Innovate is your one-stop solution partner that offers an integrated consultancy and products to reshape your sustainability goals. Headquartered in Singapore, with a regional footprint in Manila, Dhaka, Jakarta, Yangon, and Ho Chi Minh, S3 Innovate is committed to creating a Smart, Secure, and Sustainable world.
 
 ## License
 

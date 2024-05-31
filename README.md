@@ -67,11 +67,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 [**Haolt**]([https://www.bing.com/search?form=SKPBOT&q=Haolt](https://github.com/tanhao123/s3innovate/tree/master))
 •  GitHub: [Haolt]([https://www.github.com/tanhao123](https://github.com/tanhao123))
 
-## Company
-[**s3Innovate**](https://www.bing.com/search?form=SKPBOT&q=s3Innovate)
-•  Website: s3Innovate.com [^1^]
-
-S3 Innovate offers innovative and secure technology solutions to unlock your success in digital transformations. Collaborating with leading technology companies and industry leaders, S3 Innovate is your one-stop solution partner that offers an integrated consultancy and products to reshape your sustainability goals. Headquartered in Singapore, with a regional footprint in Manila, Dhaka, Jakarta, Yangon, and Ho Chi Minh, S3 Innovate is committed to creating a Smart, Secure, and Sustainable world.
 
 ## License
 
